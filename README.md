@@ -3,7 +3,7 @@
 <img align="right" height="250" width="375" alt="" src="https://thumbs.gfycat.com/AlienatedCelebratedBlackandtancoonhound-size_restricted.gif" />
 <h1>Information about me: </h1>
 ➊ 🌱 I’m currently learning HTML5&CSS3 and C++. <br>
-➋ 📫 Contact me: DKTodorov20@codingburgas.bg
+➋ 📫 Contact me: DKTodorov20@codingburgas.bg. <br>
 ➌ 👾 Fun fact: Before I thought that coding is boring, but now I love it.
 <hr>
 <div>
