@@ -4,7 +4,7 @@
 <h1>Information about me: </h1>
 ➊ 🌱 I’m currently learning HTML5&CSS3 and C++. <br>
 ➋ 📫 Contact me: DKTodorov20@codingburgas.bg
-➌ 👾 Fun fact: In the beginning I thought coding was waste of time but now I love it. 
+➌ 👾 Fun fact: Before I thought that coding is boring, but now I love it.
 <hr>
 <div>
   <h1>Languages and Tools I use:</h1>
